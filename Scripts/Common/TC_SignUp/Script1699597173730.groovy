@@ -97,3 +97,5 @@ WebUI.click(findTestObject('Object Repository/Page_Automation Exercise - Account
 
 WebUI.verifyElementPresent(findTestObject('Page_Automation Exercise/Page_Automation Exercise/img'), 3)
 
+WebUI.closeBrowser()
+
