@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_SignUp</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>187c9c94-7ace-4458-bb5b-5a564bb3f46a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0d52e68d-b918-454a-b3ec-c1f65f030cd0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'hani'</defaultValue>
+      <description></description>
+      <id>0d52e68d-b918-454a-b3ec-c1f65f030cd0</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+</TestCaseEntity>

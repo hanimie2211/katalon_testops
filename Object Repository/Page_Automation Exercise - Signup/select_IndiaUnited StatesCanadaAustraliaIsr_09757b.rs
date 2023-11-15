@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_IndiaUnited StatesCanadaAustraliaIsr_09757b</name>
+   <tag></tag>
+   <elementGuidId>7ec60e38-8d08-4424-81be-2a3f7c48fbd6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#country</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='country']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>eccd6536-fd98-48dd-b938-1afa9646bcc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-qa</name>
+      <type>Main</type>
+      <value>country</value>
+      <webElementGuid>fe8c5f22-f1bd-4479-830e-59a7ba3ba56a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>country</value>
+      <webElementGuid>613dc9b5-aa12-472a-8410-401f5e7420a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>country</value>
+      <webElementGuid>c1bcf970-226f-47e7-b62c-9e5e6ec06044</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>eae40636-5962-434e-ae92-9276291ed099</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+								India
+								United States
+								Canada
+								Australia
+								Israel
+								New Zealand
+								Singapore
+							</value>
+      <webElementGuid>e433eb29-750e-4e52-885f-7ae0f879bca3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;country&quot;)</value>
+      <webElementGuid>fa9e43cc-f5c3-4884-9408-afffd6e36004</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='country']</value>
+      <webElementGuid>2951caab-bad6-4ca2-bce5-fe1889d2debb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='form']/div/div/div/div/form/p[6]/select</value>
+      <webElementGuid>9d34998e-65c9-4438-80cb-e7226a080223</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[6]/select</value>
+      <webElementGuid>eb9e503c-81a6-4045-90db-c4659f71689f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'country' and @name = 'country' and (text() = '
+								India
+								United States
+								Canada
+								Australia
+								Israel
+								New Zealand
+								Singapore
+							' or . = '
+								India
+								United States
+								Canada
+								Australia
+								Israel
+								New Zealand
+								Singapore
+							')]</value>
+      <webElementGuid>a6760014-e82d-409b-b759-3e8316cb2300</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

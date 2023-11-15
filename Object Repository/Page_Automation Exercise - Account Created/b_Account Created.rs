@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_Account Created</name>
+   <tag></tag>
+   <elementGuidId>7847dcc2-ae8b-4d93-a741-895b943ab098</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>b</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='form']/div/div/div/h2/b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>5d8843ed-a56a-4291-87e8-e7c6c459739d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Account Created!</value>
+      <webElementGuid>7e37a33c-e297-48d4-ac0d-4bb5af7b5171</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-9 col-sm-offset-1&quot;]/h2[@class=&quot;title text-center&quot;]/b[1]</value>
+      <webElementGuid>12653d8a-f990-4bb1-8849-82c0295e2bb7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='form']/div/div/div/h2/b</value>
+      <webElementGuid>7e846de6-7571-4641-8121-bc8d1aeb8d64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//b</value>
+      <webElementGuid>473ae548-161e-4248-931a-a97ebc8b3ff0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'Account Created!' or . = 'Account Created!')]</value>
+      <webElementGuid>00a20541-6a2d-4ce5-971b-813cea5a516c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

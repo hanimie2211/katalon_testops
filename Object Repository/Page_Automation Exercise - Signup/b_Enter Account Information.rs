@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_Enter Account Information</name>
+   <tag></tag>
+   <elementGuidId>be23f3cb-418b-4403-91e8-206de46ae414</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>b</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='form']/div/div/div/div/h2/b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>35b66c70-15eb-4396-bcff-6a8b9bed24e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Enter Account Information</value>
+      <webElementGuid>e3917fae-9cf4-4093-9440-6a6060d77f6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-4 col-sm-offset-1&quot;]/div[@class=&quot;login-form&quot;]/h2[@class=&quot;title text-center&quot;]/b[1]</value>
+      <webElementGuid>7e59b38f-0cc3-483c-a4f9-fe84cb6fb294</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='form']/div/div/div/div/h2/b</value>
+      <webElementGuid>f669ea8c-9c5c-4bcc-a474-d83d9495e91f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//b</value>
+      <webElementGuid>7dec185c-4fde-4b69-97ec-4f1d07a359e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'Enter Account Information' or . = 'Enter Account Information')]</value>
+      <webElementGuid>39e0ea7a-e1c9-4fee-a813-e51105427fab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
