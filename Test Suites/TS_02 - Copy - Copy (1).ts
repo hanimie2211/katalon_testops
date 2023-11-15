@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>TS_03 - Copy (1)</name>
+   <name>TS_02 - Copy - Copy (1)</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
-   <numberOfRerun>3</numberOfRerun>
+   <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>244b61f4-e943-4049-9c0c-24a0d2689112</testSuiteGuid>
+   <testSuiteGuid>580b4e1b-8fbd-436d-b184-95330005ba1d</testSuiteGuid>
    <testCaseLink>
-      <guid>c26686db-c431-4a72-94e1-98b90d7911ce</guid>
+      <guid>1830cc18-a2ba-4628-b925-11b424afa43a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Common/TC_SignUp</testCaseId>
