@@ -19,6 +19,8 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.verifyElementPresent(findTestObject('Page_Automation Exercise/Page_Automation Exercise/img'), 0)
 
+WebUI.takeFullPageScreenshotAsCheckpoint('Sample Visual Test')
+
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Automation Exercise/a_Signup  Login'))
 
 WebUI.click(findTestObject('Object Repository/Page_Automation Exercise - Signup  Login/h2_New User Signup'))
@@ -87,6 +89,8 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Automation Exe
 WebUI.click(findTestObject('Object Repository/Page_Automation Exercise - Account Created/a_Continue'))
 
 WebUI.waitForElementVisible(findTestObject('Page_Automation Exercise - Account Created/b_Account Deleted'), 3)
+
+WebUI.click(findTestObject('alert/close_alert'))
 
 WebUI.click(findTestObject('Page_Automation Exercise/a_Delete Account'))
 
