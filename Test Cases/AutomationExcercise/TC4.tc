@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC_Verify</name>
+   <name>TC4</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>d6a75322-d2ad-41cd-a52a-223dd9c52c25</testCaseGuid>
+   <testCaseGuid>5e9a8d5b-e109-402e-b301-d2441a029f6b</testCaseGuid>
 </TestCaseEntity>

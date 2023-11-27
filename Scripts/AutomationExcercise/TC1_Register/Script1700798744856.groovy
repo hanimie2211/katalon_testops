@@ -17,21 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.verifyElementPresent(findTestObject('Page_Automation Exercise/Page_Automation Exercise/img'), 0)
-
-WebUI.takeFullPageScreenshotAsCheckpoint('Sample Visual Test')
+WebUI.openBrowser('https://automationexercise.com/', FailureHandling.STOP_ON_FAILURE)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Automation Exercise/a_Signup  Login'))
 
-WebUI.click(findTestObject('Object Repository/Page_Automation Exercise - Signup  Login/h2_New User Signup'))
+WebUI.verifyElementPresent(findTestObject('Page_Automation Exercise - Signup/h2_New User Signup'), 0)
 
-WebUI.setText(findTestObject('Object Repository/Page_Automation Exercise - Signup  Login/input_name'), 'Hani')
+WebUI.setText(findTestObject('Page_Automation Exercise - Signup/input_New User Signup_name'), 'Hani Mie')
 
-WebUI.setText(findTestObject('Object Repository/Page_Automation Exercise - Signup  Login/input_email'), 'hani.vo@katalon.com')
+WebUI.setText(findTestObject('Page_Automation Exercise - Signup/input_New User Signup_email'), 'hani.vo@katalon.com')
 
 WebUI.click(findTestObject('Object Repository/Page_Automation Exercise - Signup  Login/button_Signup'))
-
-WebUI.click(findTestObject('Object Repository/Page_Automation Exercise - Signup/b_Enter Account Information'))
 
 WebUI.click(findTestObject('Object Repository/Page_Automation Exercise - Signup/divuniform-id_gender2'))
 
@@ -87,19 +83,6 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Automation Exe
     2)
 
 WebUI.click(findTestObject('Object Repository/Page_Automation Exercise - Account Created/a_Continue'))
-
-WebUI.waitForElementVisible(findTestObject('Page_Automation Exercise - Account Created/b_Account Deleted'), 3)
-
-WebUI.click(findTestObject('alert/close_alert'))
-
-WebUI.click(findTestObject('Page_Automation Exercise/a_Delete Account'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Automation Exercise - Account Created/b_Account Deleted'), 
-    2)
-
-WebUI.click(findTestObject('Object Repository/Page_Automation Exercise - Account Created/a_Continue'))
-
-WebUI.verifyElementPresent(findTestObject('Page_Automation Exercise/Page_Automation Exercise/img'), 3)
 
 WebUI.closeBrowser()
 

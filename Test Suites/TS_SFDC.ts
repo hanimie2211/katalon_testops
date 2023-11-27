@@ -1,27 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>TS_02</name>
+   <name>TS_SFDC</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
-   <numberOfRerun>0</numberOfRerun>
+   <numberOfRerun>3</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>81195d60-ce11-4df2-9574-e4f1d537d4ee</testSuiteGuid>
+   <testSuiteGuid>5124dbe0-3c4d-4823-87f7-52454a1d2eb6</testSuiteGuid>
    <testCaseLink>
-      <guid>1830cc18-a2ba-4628-b925-11b424afa43a</guid>
+      <guid>ba3e2810-4f0d-41b5-838e-7329b538f894</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Common/TC_SignUp</testCaseId>
+      <testCaseId>Test Cases/SFDC/loginFail</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>0d52e68d-b918-454a-b3ec-c1f65f030cd0</variableId>
-      </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

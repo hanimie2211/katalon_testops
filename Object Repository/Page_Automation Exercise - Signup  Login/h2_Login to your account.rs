@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>b_Account Deleted</name>
+   <name>h2_Login to your account</name>
    <tag></tag>
-   <elementGuidId>2c2e0f15-3dda-4a55-aa57-653f7f480a0f</elementGuidId>
+   <elementGuidId>37ffde92-a287-45ca-b649-df44e4feee4e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//section[@id='form']/div/div/div/h2/b</value>
+         <value>//section[@id='form']/div/div/div/div/h2</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>b</value>
+         <value>h2</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,47 +21,47 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>b</value>
-      <webElementGuid>3be20aa0-298a-4e86-b030-9396b9b1e0fb</webElementGuid>
+      <value>h2</value>
+      <webElementGuid>30465deb-0d5b-4b86-9b44-3094fc151bc6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Account Deleted!</value>
-      <webElementGuid>0f1e8d44-5b61-4a49-b7e6-458c95793fd0</webElementGuid>
+      <value>Login to your account</value>
+      <webElementGuid>6dee7b47-e368-4b59-851c-097c81f74951</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;form&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-9 col-sm-offset-1&quot;]/h2[@class=&quot;title text-center&quot;]/b[1]</value>
-      <webElementGuid>96503b53-0c78-4509-bdc7-620cb8a707a6</webElementGuid>
+      <value>id(&quot;form&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-4 col-sm-offset-1&quot;]/div[@class=&quot;login-form&quot;]/h2[1]</value>
+      <webElementGuid>dbc2c3ac-2d2a-4b91-ac74-c35e4d0dc258</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//section[@id='form']/div/div/div/h2/b</value>
-      <webElementGuid>b78c73c3-375b-4486-a796-9af7ffdae773</webElementGuid>
+      <value>//section[@id='form']/div/div/div/div/h2</value>
+      <webElementGuid>6d18c979-81b7-44c7-b9d6-21a572aa6f99</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//b</value>
-      <webElementGuid>ee93e362-3938-4503-bee2-71184fc7ddb2</webElementGuid>
+      <value>//h2</value>
+      <webElementGuid>475e815f-8104-4604-9cfa-0e2e3952e058</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//b[(text() = 'Account Deleted!' or . = 'Account Deleted!')]</value>
-      <webElementGuid>86508eca-eaab-4bb5-a2f5-87caa15f5257</webElementGuid>
+      <value>//h2[(text() = 'Login to your account' or . = 'Login to your account')]</value>
+      <webElementGuid>89568c88-bb3a-497f-8798-eab4d94176d6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

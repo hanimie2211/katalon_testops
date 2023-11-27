@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC3_login incorrect</name>
+   <tag>Regression,Browse</tag>
+   <comment></comment>
+   <testCaseGuid>ea1b7332-e8df-47ad-be7b-8205dd90b753</testCaseGuid>
+</TestCaseEntity>

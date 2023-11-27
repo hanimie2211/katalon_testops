@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC_SignUp</name>
-   <tag></tag>
+   <name>TC1_Register</name>
+   <tag>Smoke,Checkout</tag>
    <comment></comment>
    <testCaseGuid>187c9c94-7ace-4458-bb5b-5a564bb3f46a</testCaseGuid>
    <variableLinks>

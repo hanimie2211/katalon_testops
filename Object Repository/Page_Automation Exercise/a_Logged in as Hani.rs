@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>b_Account Deleted</name>
+   <name>a_Logged in as Hani</name>
    <tag></tag>
-   <elementGuidId>2c2e0f15-3dda-4a55-aa57-653f7f480a0f</elementGuidId>
+   <elementGuidId>7a5bfb29-1506-4e6f-93dc-1acf8d610093</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//section[@id='form']/div/div/div/h2/b</value>
+         <value>//header[@id='header']/div/div/div/div[2]/div/ul/li[10]/a</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>b</value>
+         <value>li:nth-of-type(10) > a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,47 +21,47 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>b</value>
-      <webElementGuid>3be20aa0-298a-4e86-b030-9396b9b1e0fb</webElementGuid>
+      <value>a</value>
+      <webElementGuid>89a2e4e0-db77-4687-a393-5d63db62dede</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Account Deleted!</value>
-      <webElementGuid>0f1e8d44-5b61-4a49-b7e6-458c95793fd0</webElementGuid>
+      <value> Logged in as Hani</value>
+      <webElementGuid>247e1195-c550-4396-a6ef-a7f9bc5947ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;form&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-9 col-sm-offset-1&quot;]/h2[@class=&quot;title text-center&quot;]/b[1]</value>
-      <webElementGuid>96503b53-0c78-4509-bdc7-620cb8a707a6</webElementGuid>
+      <value>id(&quot;header&quot;)/div[@class=&quot;header-middle&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-8&quot;]/div[@class=&quot;shop-menu pull-right&quot;]/ul[@class=&quot;nav navbar-nav&quot;]/li[10]/a[1]</value>
+      <webElementGuid>0728f57e-7336-45e7-abd9-355019286458</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//section[@id='form']/div/div/div/h2/b</value>
-      <webElementGuid>b78c73c3-375b-4486-a796-9af7ffdae773</webElementGuid>
+      <value>//header[@id='header']/div/div/div/div[2]/div/ul/li[10]/a</value>
+      <webElementGuid>9905ba5a-9ccb-42f5-af20-16e2cae66017</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//b</value>
-      <webElementGuid>ee93e362-3938-4503-bee2-71184fc7ddb2</webElementGuid>
+      <value>//li[10]/a</value>
+      <webElementGuid>90d9e4ac-5829-4772-bdfb-2446f32c75e7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//b[(text() = 'Account Deleted!' or . = 'Account Deleted!')]</value>
-      <webElementGuid>86508eca-eaab-4bb5-a2f5-87caa15f5257</webElementGuid>
+      <value>//a[(text() = ' Logged in as Hani' or . = ' Logged in as Hani')]</value>
+      <webElementGuid>23be244a-1591-41ea-bf60-cdd696ffefe8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
