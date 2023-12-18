@@ -1,0 +1,210 @@
+{
+  "keywordFileContentHash": "152CDA861627B7A82F832A1ADCFDF08B",
+  "keywordClasses": [
+    {
+      "name": "AcceptNextAlert.KatalonAlert",
+      "keywordMethods": [
+        {
+          "name": "handleNextAlert",
+          "parameters": [],
+          "javadoc": "/**\n\t * This keyword must be called before the alert trigger\n\t */"
+        },
+        {
+          "name": "handleNextAlert",
+          "parameters": [
+            {
+              "name": "valueToReturn",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.Object",
+                "unresolvedClassName": "Object",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\n\t * This keyword must be called before the alert trigger\n\t */"
+        },
+        {
+          "name": "acceptNextAlert",
+          "parameters": [],
+          "javadoc": "/**\n\t * This keyword must be called before the alert trigger\n\t */"
+        },
+        {
+          "name": "acceptNextAlertIf",
+          "parameters": [],
+          "javadoc": "/**\n\t * This keyword must be called before the alert trigger\n\t */"
+        },
+        {
+          "name": "denyNextAlert",
+          "parameters": [],
+          "javadoc": "/**\n\t * This keyword must be called before the alert trigger\n\t */"
+        },
+        {
+          "name": "acceptNextPrompt",
+          "parameters": [
+            {
+              "name": "value",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\n\t * This keyword must be called before the alert trigger\n\t */"
+        },
+        {
+          "name": "getLastAlertMessage",
+          "parameters": [],
+          "javadoc": "/**\n\t * One of these keywords must be called before the alert trigger:\n\t * \t\thandleNextAlert, acceptNextAlert, denyNextAlert, acceptNextPrompt\n\t */"
+        },
+        {
+          "name": "waitForAlert",
+          "parameters": [
+            {
+              "name": "timeout",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\n\t * One of these keywords must be called before the alert trigger:\n\t * \t\thandleNextAlert, acceptNextAlert, denyNextAlert, acceptNextPrompt\n\t */"
+        },
+        {
+          "name": "verifyAlertPresent",
+          "parameters": [
+            {
+              "name": "timeout",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "flowControl",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "com.kms.katalon.core.model.FailureHandling",
+                "unresolvedClassName": "FailureHandling",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\n\t * One of these keywords must be called before the alert trigger:\n\t * \t\thandleNextAlert, acceptNextAlert, denyNextAlert, acceptNextPrompt\n\t */"
+        },
+        {
+          "name": "verifyAlertNotPresent",
+          "parameters": [
+            {
+              "name": "timeout",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "flowControl",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "com.kms.katalon.core.model.FailureHandling",
+                "unresolvedClassName": "FailureHandling",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\n\t * One of these keywords must be called before the alert trigger:\n\t * \t\thandleNextAlert, acceptNextAlert, denyNextAlert, acceptNextPrompt\n\t */"
+        },
+        {
+          "name": "waitForAlert",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "verifyAlertPresent",
+          "parameters": [
+            {
+              "name": "timeout",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "verifyAlertPresent",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "verifyAlertNotPresent",
+          "parameters": [
+            {
+              "name": "timeout",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "verifyAlertNotPresent",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

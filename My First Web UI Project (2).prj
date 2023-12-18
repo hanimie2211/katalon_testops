@@ -4,6 +4,7 @@
    <name>My First Web UI Project (2)</name>
    <tag></tag>
    <UUID>16c4f37f-f740-4eab-aa6e-814f99f84991</UUID>
+   <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
    <projectFileLocation>/Users/hani.vo/Desktop/Katalon/My First Web UI Project (2)/My First Web UI Project (2).prj</projectFileLocation>

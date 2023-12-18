@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC_tét</name>
+   <name>TC_Winsor</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>13b1cd4c-a60b-49c7-9ce6-5ccc5665816e</testCaseGuid>
+   <testCaseGuid>becfa360-1d37-498c-80be-71ddd82771f8</testCaseGuid>
 </TestCaseEntity>
