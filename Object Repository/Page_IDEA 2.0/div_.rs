@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_</name>
+   <tag></tag>
+   <elementGuidId>1149e80d-1478-489f-9bdc-5899dba7396b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='fff']/div/div/div/div/div[2]/div/div/div/div/nav/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>nav.MuiList-root.MuiList-padding.muirtl-1ontqvh > div.MuiButtonBase-root.MuiListItem-root.MuiListItem-gutters.MuiListItem-padding.MuiListItem-button.muirtl-qs2q9j</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cdb0737c-5d46-4c9b-9da6-71616d75697e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-padding MuiListItem-button muirtl-qs2q9j</value>
+      <webElementGuid>9782a3be-d018-4f5a-8058-0fe2278f0c9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>022235ad-a9c4-4ba2-887d-1c7599166e8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d7db951a-87b6-4ed2-820f-6ccdc35a67e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> כל הקוראים</value>
+      <webElementGuid>2ca66dcf-1402-4f12-930d-a80fd6014b3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fff&quot;)/div[1]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation8 muirtl-119yzve&quot;]/div[@class=&quot;jss360&quot;]/div[@class=&quot;jss361&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container muirtl-1d3bbye&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-md-8 muirtl-fk796o&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container muirtl-1d3bbye&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-md-12 muirtl-we0np1&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-md-12 muirtl-we0np1&quot;]/nav[@class=&quot;MuiList-root MuiList-padding muirtl-1ontqvh&quot;]/div[@class=&quot;MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-padding MuiListItem-button muirtl-qs2q9j&quot;]</value>
+      <webElementGuid>4837464c-5a4a-4db9-adde-2fb4c803c341</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='fff']/div/div/div/div/div[2]/div/div/div/div/nav/div</value>
+      <webElementGuid>70c1daca-5c91-4078-8e52-a272550fa0cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/div</value>
+      <webElementGuid>7d71d7f2-8b17-4e54-8654-3d4e395c7a4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' כל הקוראים' or . = ' כל הקוראים')]</value>
+      <webElementGuid>14af7164-db81-4fc3-80a3-8a9648f21d23</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

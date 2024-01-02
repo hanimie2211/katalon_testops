@@ -19,6 +19,8 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+WebUI.takeScreenshotAsCheckpoint('winsor_checkpoint')
+
 WebUI.navigateToUrl('https://www.windsorstore.com/')
 
 WebUI.maximizeWindow()

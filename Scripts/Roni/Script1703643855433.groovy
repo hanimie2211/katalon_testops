@@ -17,3 +17,15 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('https://almpm.dev.lib-idea.com/ ')
+
+WebUI.setText(findTestObject('Page_IDEA 2.0/input__userId'), '0546350540')
+
+WebUI.setEncryptedText(findTestObject('Page_IDEA 2.0/input__password'), 'aeHFOx8jV/A=')
+
+WebUI.click(findTestObject('Page_IDEA 2.0/button_login'))
+
+WebUI.click(findTestObject('Page_IDEA 2.0/button_2'))
+
+WebUI.click(findTestObject('Page_IDEA 2.0/div_'))
+
