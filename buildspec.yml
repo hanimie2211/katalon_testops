@@ -8,7 +8,7 @@ phases:
       - docker pull katalonstudio/katalon
   build:
     commands:
-      - docker run -t --rm -v "$(pwd)":/katalon/katalon/source katalonstudio/katalon katalon-execute.sh -apiKey=$KATALON_API_KEY -orgID=1280987 -browserType="Chrome" -retry=0 -statusDelay=15 -testSuitePath="Test Suites/TS_SFDC"
+      - docker run -t --rm -v "$(pwd)":/katalon/katalon/source katalonstudio/katalon katalon-execute.sh -apiKey=$KATALON_API_KEY -orgID=1280987 -browserType="Chrome" -retry=0 -statusDelay=15 -testSuitePath="Test Suites/TS_Winsor"
 artifacts:
   files:
     - report/*
