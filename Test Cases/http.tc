@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>tc new</name>
+   <name>http</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>ae9d8c1c-c540-4bde-aaa8-fcafc0f5155a</testCaseGuid>
