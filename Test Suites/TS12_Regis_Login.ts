@@ -12,7 +12,7 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>9fe1352c-4519-489a-bf10-8e22cc4695c0</testSuiteGuid>
    <testCaseLink>
-      <guid>f7928937-0222-40a1-b4ba-852eb72b5626</guid>
+      <guid>8820ff6a-76e4-46e2-bc2f-4a413bae72da</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/AutomationExcercise/TC1_Register</testCaseId>
