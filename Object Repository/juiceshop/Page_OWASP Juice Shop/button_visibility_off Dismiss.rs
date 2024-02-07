@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_visibility_off Dismiss</name>
+   <tag></tag>
+   <elementGuidId>6918b9f5-ec8a-4d58-89bf-ac4b6e8754c9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.close-dialog.mat-raised-button.mat-button-base.mat-primary.ng-star-inserted.cdk-focused.cdk-mouse-focused</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-dialog-container[@id='mat-dialog-0']/app-welcome-banner/div/div[2]/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>54c6a390-2fba-4791-a38f-691211affd52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>primary</value>
+      <webElementGuid>5a423443-92f1-43f9-bda4-9f2e60e6fd04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Close Welcome Banner</value>
+      <webElementGuid>a55e88ae-233a-48b7-adb1-d7e843a5e3c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator close-dialog mat-raised-button mat-button-base mat-primary ng-star-inserted cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>22f1314f-69a7-4a18-b408-6d2055ad36bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> visibility_off Dismiss</value>
+      <webElementGuid>6b032d5e-9a9e-4856-b1c4-e09847e4a8e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-dialog-0&quot;)/app-welcome-banner[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;mat-typography&quot;]/div[2]/button[@class=&quot;mat-focus-indicator close-dialog mat-raised-button mat-button-base mat-primary ng-star-inserted cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>392fe59d-f847-4409-bdbb-dcf98d079825</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='mat-dialog-0']/app-welcome-banner/div/div[2]/button[2]</value>
+      <webElementGuid>b2a83e7a-d416-43e3-bcc4-8c396b9c18b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help getting started'])[1]/following::button[1]</value>
+      <webElementGuid>4a941b50-0d1a-4e02-9cec-74eb230ac213</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='https://owasp-juice.shop'])[1]/following::button[2]</value>
+      <webElementGuid>c65e9463-abff-4f52-b744-2d9767d33223</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-welcome-banner/div/div[2]/button[2]</value>
+      <webElementGuid>93ad3be3-5cd8-4e9f-a659-92852e9c3cae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' visibility_off Dismiss' or . = ' visibility_off Dismiss')]</value>
+      <webElementGuid>12b6a09b-c1dc-470e-9ffc-3c0fa2a3db43</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

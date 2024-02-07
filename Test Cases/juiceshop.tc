@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>juiceshop</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c3e1a33a-76d0-4f17-a796-a4ecfe58e960</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>19d51f24-cd7c-43a0-b993-aa1213a6393c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>19d51f24-cd7c-43a0-b993-aa1213a6393c</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>

@@ -31,5 +31,5 @@ WebUI.waitForElementVisible(findTestObject('windsorstore/x'), 5)
 
 WebUI.verifyElementPresent(findTestObject('windsorstore/x'), 5)
 
-WebUI.click(findTestObject('windsorstore/x'))
+WebUI.click(findTestObject('Object Repository/windsorstore/x'))
 

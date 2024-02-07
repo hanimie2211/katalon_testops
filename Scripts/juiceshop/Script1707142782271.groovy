@@ -17,7 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('http://www.testingmcafeesites.com/')
 
-WebUI.delay(2)
+
+WebUI.click(findTestObject('Object Repository/juiceshop/Page_OWASP Juice Shop/button_visibility_off Dismiss'))
+
+WebUI.click(findTestObject('Object Repository/juiceshop/Page_OWASP Juice Shop/button_account_circle  Account'))
+
+WebUI.click(findTestObject('Object Repository/juiceshop/Page_OWASP Juice Shop/button_exit_to_app  Login'))
+
+WebUI.setText(findTestObject('Object Repository/juiceshop/Page_OWASP Juice Shop/input_Login_email'), email)
+
+WebUI.setEncryptedText(findTestObject('Object Repository/juiceshop/Page_OWASP Juice Shop/input_Email_password'), 'RigbBhfdqOBGNlJIWM1ClA==')
+
+WebUI.click(findTestObject('Object Repository/juiceshop/Page_OWASP Juice Shop/button_exit_to_app  Log in'))
 
