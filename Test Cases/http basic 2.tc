@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>http</name>
+   <name>http basic 2</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>ae9d8c1c-c540-4bde-aaa8-fcafc0f5155a</testCaseGuid>
+   <testCaseGuid>98da9331-3c96-498e-ab52-4d832b6d09ae</testCaseGuid>
 </TestCaseEntity>
